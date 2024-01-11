@@ -1,0 +1,1 @@
+This approach uses the fetch function to make GET requests to the JSONPlaceholder API for retrieving posts and DELETE requests for deleting posts. The dynamic content is rendered by creating HTML elements using JavaScript, and event listeners are added to handle the delete button functionality.
